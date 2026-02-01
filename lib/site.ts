@@ -16,7 +16,7 @@
 // =====================================================
 // URL dasar aplikasi. Ganti dengan domain kamu saat production.
 // Contoh production: "https://api.ourin.id"
-const baseUrl = "http://api.ourin.my.id";
+const baseUrl = "https://api.ourin.my.id";
 
 // =====================================================
 // KONFIGURASI UTAMA
