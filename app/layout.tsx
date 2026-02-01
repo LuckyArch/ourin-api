@@ -21,6 +21,34 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: `${siteConfig.title} - No Keys, No Limits, Just Build`,
   description: siteConfig.description,
+  keywords: siteConfig.meta.keywords,
+  authors: [{ name: siteConfig.meta.author }],
+  
+  openGraph: {
+    type: "website",
+    locale: "id_ID",
+    url: siteConfig.url,
+    siteName: siteConfig.name,
+    title: `${siteConfig.title} - No Keys, No Limits, Just Build`,
+    description: siteConfig.description,
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: siteConfig.title,
+      },
+    ],
+  },
+  
+  twitter: {
+    card: "summary_large_image",
+    title: `${siteConfig.title} - No Keys, No Limits, Just Build`,
+    description: siteConfig.description,
+    images: ["/og-image.png"],
+  },
+  
+  metadataBase: new URL(siteConfig.url),
 };
 
 export default function RootLayout({
