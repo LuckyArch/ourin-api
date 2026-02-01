@@ -1,13 +1,16 @@
-# 🚀 Ourin REST API
 
 <div align="center">
+
+# 🚀 Ourin REST API
+
+![https://cdn.gimita.id/download/0719eeee4fe543a5cd59d74093fd1a60_1769904529474_25eada33.jpg](https://cdn.gimita.id/download/0719eeee4fe543a5cd59d74093fd1a60_1769904529474_25eada33.jpg)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-**REST API modern untuk AI, Downloader & Stalker**
+**REST API modern , Gaya Terminal**
 
 [📖 Dokumentasi](#dokumentasi) • [⚡ Quick Start](#quick-start) • [🔌 Plugins](#plugins) • [🛠️ Development](#development)
 
@@ -17,11 +20,7 @@
 
 ## 📋 Tentang Proyek
 
-Ourin API adalah REST API yang dibangun dengan **Next.js 15** dan **TypeScript**. Proyek ini menyediakan berbagai endpoint untuk:
-
-- 🤖 **AI Chat** — Gemini, CiCi AI, Perplexity, dan model lainnya
-- 📥 **Downloader** — TikTok, YouTube, Instagram, Spotify, Twitter, dll
-- 🔍 **Stalker** — Profil Instagram, TikTok, Twitter
+Ourin API adalah REST API yang dibangun dengan **Next.js 15** dan **TypeScript**. Proyek ini menyediakan berbagai endpoint.
 
 Didesain dengan arsitektur **plugin-based** yang memudahkan developer untuk menambah endpoint baru.
 
@@ -327,6 +326,6 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 <div align="center">
 
-**Made with ❤️ by Ourin Team**
+**Made with ❤️ by Zann**
 
 </div>

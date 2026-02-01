@@ -56,10 +56,10 @@ export const siteConfig = {
   // -----------------------------------------------------
   // Link ke akun sosial media. Kosongkan jika tidak ada.
   social: {
-    github: "https://github.com/ourin",
-    discord: "https://discord.gg/ourin",
-    twitter: "https://twitter.com/ourin",
-    instagram: "https://instagram.com/ourin",
+    github: "https://github.com/LuckyArch",
+    discord: "",
+    twitter: "",
+    instagram: "",
   },
 
   // -----------------------------------------------------
@@ -67,7 +67,7 @@ export const siteConfig = {
   // -----------------------------------------------------
   contact: {
     email: "support@ourin.id",
-    website: "https://ourin.id",
+    website: "https://sc.ourin.my.id",
   },
 
   // -----------------------------------------------------
@@ -92,7 +92,7 @@ export const siteConfig = {
     keywords: ["API", "REST API", "AI", "Image Generation", "Ourin"],
     
     // Nama author/pembuat
-    author: "Ourin Team",
+    author: "Zann",
     
     // Theme color untuk mobile browser
     themeColor: "#10b981",
